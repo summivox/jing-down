@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            jing-down
-// @include         http://jing.fm/*
+// @include         *jing.fm*
 // ==/UserScript==
 
 
